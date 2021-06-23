@@ -5,7 +5,7 @@ time: 2021/6/23 7:50
 software: PyCharm
 
 Description:
-   
+   main window of pyglet
 
 Illustration:
     T01 for test01
